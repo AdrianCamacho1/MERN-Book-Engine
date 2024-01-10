@@ -1,5 +1,16 @@
 # 21 MERN: Book Search Engine
 
+lse
+>
+> * A repository that includes only a README file but nothing else
+>
+> * A repository that only includes starter code
+
+This Challenge is graded based on the following criteria:
+
+### Technical Acceptance Criteria: 40%
+
+* Satisfies all of the preceding acceptance criteria plus the following:
 ## Your Task
 
 Your assignment this week is emblematic of the fact that most modern websites are driven by two things: data and user demands. This shouldn't come as a surprise, as the ability to personalize user data is the cornerstone of real-world web development today. And as user demands evolve, applications need to be more performant.
@@ -188,18 +199,7 @@ Additionally, you’ll need to complete the following tasks in each of these fro
 >
 > * A repository that has no code
 >
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
-
-This Challenge is graded based on the following criteria:
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the preceding acceptance criteria plus the following:
-
+> * A repository that includes a unique name but nothing e
   * Has an Apollo Server that uses GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API.
 
   * Use an Apollo Server and apply it to the Express.js server as middleware.
